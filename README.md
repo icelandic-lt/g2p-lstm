@@ -33,3 +33,14 @@ conda activate fairseq-lstm
 ```
 
 2. Clone Fairseq and install, see: https://github.com/pytorch/fairseq
+
+
+## Trouble shooting & inquiries
+
+This application is still in development. If you encounter any errors, feel free to open an issue inside the
+[issue tracker](https://github.com/grammatek/g2p-lstm/issues). You can also [contact us](mailto:info@grammatek.com) via email.
+
+## Contributing
+
+You can contribute to this project by forking it, creating a private branch and opening a new
+ [pull request](https://github.com/grammatek/g2p-lstm/pulls).
