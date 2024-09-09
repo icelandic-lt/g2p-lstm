@@ -1,7 +1,7 @@
 #!/bin/bash
 # Sweeps over data and hyperparameters.
 #
-# Parameters in this file are set accoring to the training of the Icelandic g2p models published in 
+# Parameters in this file are set according to the training of the Icelandic g2p models published in
 # this repository: https://github.com/icelandic-lt/g2p-lstm/tree/master
 
 set -euo pipefail

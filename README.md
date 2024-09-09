@@ -35,7 +35,7 @@ conda activate fairseq-lstm
 
 ## Training and executing
 
-This repository contains trained models which you can use to automatically transcribe Icelandic words.
+This repository contains trained [models](checkpoints) which you can use to automatically transcribe Icelandic words.
 To train your own models, set up the ``data`` directory as in this example, including ``dev, test`` and ``train``
 sub-directories.
 
@@ -63,9 +63,9 @@ For an example of how the models can be used in Python projects, see [ice-g2p](h
 ## Trouble shooting & inquiries
 
 This application is still in development. If you encounter any errors, feel free to open an issue inside the
-[issue tracker](https://github.com/grammatek/g2p-lstm/issues). You can also [contact us](mailto:info@grammatek.com) via email.
+[issue tracker](https://github.com/icelandic-lt/g2p-lstm/issues). You can also [contact us](mailto:info@grammatek.com) via email.
 
 ## Contributing
 
 You can contribute to this project by forking it, creating a private branch and opening a new
- [pull request](https://github.com/grammatek/g2p-lstm/pulls).
+ [pull request](https://github.com/icelandic-lt/g2p-lstm/pulls).
